@@ -1,5 +1,6 @@
 {
     "name": "vs/encrypt",
+    "homepage": "https://github.com/varyandeveloper/vs-encrypt",
     "description": "PHP encryption package",
     "type": "package",
     "license": "MIT",
