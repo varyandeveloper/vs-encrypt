@@ -1,8 +1,6 @@
 <?php
 
-namespace VS\Security\Strategy;
-
-use VS\Encrypt\EncryptInterface;
+namespace VS\Encrypt;
 
 /**
  * Class Base64OpenSSL
