@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Security\Strategy;
+namespace VS\Security\Strategy;
 
 use VS\Encrypt\EncryptInterface;
 
